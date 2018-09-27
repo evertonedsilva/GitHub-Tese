@@ -1,0 +1,67 @@
+19 nodes in community 1
+C1309
+G1284
+Q1290
+G949
+C958
+Q1019
+I945
+E937
+I933
+W968
+G917
+H897
+P906
+W891
+L1156
+T1143
+G883
+R131
+P348
+18 nodes in community 2
+A1
+H110
+D103
+D546
+D84
+G211
+K94
+D89
+S445
+Y550
+E214
+G212
+L85
+F93
+D213
+G114
+K553
+N102
+2 nodes in community 3
+D169
+R147
+2 nodes in community 4
+F1194
+T1085
+2 nodes in community 5
+L1079
+V1010
+2 nodes in community 6
+L814
+W952
+1 nodes in community 7
+A1009
+1 nodes in community 8
+A216
+1 nodes in community 9
+E1081
+1 nodes in community 10
+F1036
+1 nodes in community 11
+F77
+1 nodes in community 12
+I827
+1 nodes in community 13
+L1012
+1 nodes in community 14
+L549

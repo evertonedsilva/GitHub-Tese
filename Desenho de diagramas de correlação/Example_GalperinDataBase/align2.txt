@@ -1,0 +1,10 @@
+>TBD1265_EAL
+--R
+LRQAL-----ERN----EL-VLHYQ------P--IV----------E---L---AS--G-R----------I
+V-----------------GGEA-LVRW--E--D--------PE----R----G----LV----MPSAFIPAA
+ED-T--GLIVALS-DWVLEACCT--QLR-A-W------------Q-qQG--R-aADDLTL------------
+SVNIST---RQFEGEH-----------LT--R--AVD---RAL-----AR-S-------GLR-PD--C--L-
+ELEITEN---------VML----VMTDEVR---TCLD-------A-LRA--RGVRLALDDFGT--------GYSS
+LS---Y----L---SQ---L--P-F-H----GLKIDQSFV-------RKIP---------------A---H---
+-P------S----E-----T----Q--IV-T-T----ILALARGLG-MEVV-AEGIETAQQ---YA-F-L-R-
+D-R-G-C-E-F--G-QGNLMSTP

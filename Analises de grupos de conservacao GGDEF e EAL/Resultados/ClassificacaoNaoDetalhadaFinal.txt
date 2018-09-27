@@ -1,0 +1,68 @@
+	*****EAL conser|GGDEF conser|sitio-I conser| ( 1370  )
+-ExxE conser|EAL conser|DD conser|D-D conser|GGDEF conser|RxxD conser| ( 1370 )
+
+
+	*****EAL conser|GGDEF conser|sitio-I nonconser| ( 1147  )
+-ExxE conser|EAL conser|DD conser|D-D conser|GGDEF conser|RxxD nonconser| ( 1147 )
+
+
+	*****EAL nonconser|GGDEF conser|sitio-I conser| ( 58  )
+-ExxE nonconser|EAL nonconser|DD nonconser|D-D conser|GGDEF conser|RxxD conser| ( 7 )
+-ExxE conser|EAL conser|DD nonconser|D-D conser|GGDEF conser|RxxD conser| ( 1 )
+-ExxE conser|EAL nonconser|DD nonconser|D-D conser|GGDEF conser|RxxD conser| ( 1 )
+-ExxE nonconser|EAL conser|DD nonconser|D-D conser|GGDEF conser|RxxD conser| ( 19 )
+-ExxE nonconser|EAL conser|DD conser|D-D conser|GGDEF conser|RxxD conser| ( 19 )
+-ExxE conser|EAL nonconser|DD conser|D-D conser|GGDEF conser|RxxD conser| ( 1 )
+-ExxE nonconser|EAL nonconser|DD conser|D-D conser|GGDEF conser|RxxD conser| ( 10 )
+
+
+	*****EAL nonconser|GGDEF conser|sitio-I nonconser| ( 16  )
+-ExxE nonconser|EAL nonconser|DD nonconser|D-D conser|GGDEF conser|RxxD nonconser| ( 4 )
+-ExxE conser|EAL conser|DD nonconser|D-D conser|GGDEF conser|RxxD nonconser| ( 3 )
+-ExxE nonconser|EAL conser|DD conser|D-D conser|GGDEF conser|RxxD nonconser| ( 6 )
+-ExxE nonconser|EAL conser|DD nonconser|D-D conser|GGDEF conser|RxxD nonconser| ( 2 )
+-ExxE nonconser|EAL nonconser|DD conser|D-D conser|GGDEF conser|RxxD nonconser| ( 1 )
+
+
+	*****EAL nonconser|GGDEF nonconser|sitio-I nonconser| ( 196  )
+-ExxE nonconser|EAL nonconser|DD nonconser|D-D conser|GGDEF nonconser|RxxD nonconser| ( 5 )
+-ExxE nonconser|EAL conser|DD nonconser|D-D conser|GGDEF nonconser|RxxD nonconser| ( 15 )
+-ExxE nonconser|EAL nonconser|DD nonconser|D-D nonconser|GGDEF nonconser|RxxD nonconser| ( 15 )
+-ExxE nonconser|EAL nonconser|DD conser|D-D conser|GGDEF nonconser|RxxD nonconser| ( 1 )
+-ExxE nonconser|EAL conser|DD conser|D-D conser|GGDEF nonconser|RxxD nonconser| ( 13 )
+-ExxE conser|EAL nonconser|DD conser|D-D conser|GGDEF nonconser|RxxD nonconser| ( 1 )
+-ExxE nonconser|EAL conser|DD conser|D-D nonconser|GGDEF conser|RxxD nonconser| ( 1 )
+-ExxE nonconser|EAL conser|DD conser|D-D nonconser|GGDEF nonconser|RxxD nonconser| ( 18 )
+-ExxE nonconser|EAL nonconser|DD conser|D-D nonconser|GGDEF nonconser|RxxD nonconser| ( 6 )
+-ExxE conser|EAL conser|DD nonconser|D-D nonconser|GGDEF conser|RxxD nonconser| ( 1 )
+-ExxE nonconser|EAL nonconser|DD nonconser|D-D nonconser|GGDEF conser|RxxD nonconser| ( 1 )
+-ExxE conser|EAL conser|DD nonconser|D-D nonconser|GGDEF nonconser|RxxD nonconser| ( 74 )
+-ExxE nonconser|EAL conser|DD nonconser|D-D nonconser|GGDEF nonconser|RxxD nonconser| ( 16 )
+-ExxE conser|EAL nonconser|DD nonconser|D-D nonconser|GGDEF nonconser|RxxD nonconser| ( 21 )
+-ExxE conser|EAL conser|DD nonconser|D-D conser|GGDEF nonconser|RxxD nonconser| ( 8 )
+
+
+	*****EAL nonconser|GGDEF nonconser|sitio-I conser| ( 27  )
+-ExxE nonconser|EAL conser|DD conser|D-D nonconser|GGDEF conser|RxxD conser| ( 3 )
+-ExxE nonconser|EAL conser|DD conser|D-D conser|GGDEF nonconser|RxxD conser| ( 8 )
+-ExxE nonconser|EAL conser|DD nonconser|D-D conser|GGDEF nonconser|RxxD conser| ( 2 )
+-ExxE nonconser|EAL nonconser|DD nonconser|D-D nonconser|GGDEF nonconser|RxxD conser| ( 3 )
+-ExxE conser|EAL conser|DD nonconser|D-D nonconser|GGDEF nonconser|RxxD conser| ( 1 )
+-ExxE conser|EAL conser|DD nonconser|D-D conser|GGDEF nonconser|RxxD conser| ( 3 )
+-ExxE nonconser|EAL conser|DD conser|D-D nonconser|GGDEF nonconser|RxxD conser| ( 3 )
+-ExxE conser|EAL nonconser|DD nonconser|D-D nonconser|GGDEF nonconser|RxxD conser| ( 1 )
+-ExxE nonconser|EAL nonconser|DD conser|D-D conser|GGDEF nonconser|RxxD conser| ( 1 )
+-ExxE nonconser|EAL conser|DD nonconser|D-D nonconser|GGDEF nonconser|RxxD conser| ( 1 )
+-ExxE conser|EAL nonconser|DD nonconser|D-D conser|GGDEF nonconser|RxxD conser| ( 1 )
+
+
+	*****EAL conser|GGDEF nonconser|sitio-I nonconser| ( 1312  )
+-ExxE conser|EAL conser|DD conser|D-D nonconser|GGDEF conser|RxxD nonconser| ( 127 )
+-ExxE conser|EAL conser|DD conser|D-D nonconser|GGDEF nonconser|RxxD nonconser| ( 596 )
+-ExxE conser|EAL conser|DD conser|D-D conser|GGDEF nonconser|RxxD nonconser| ( 589 )
+
+
+	*****EAL conser|GGDEF nonconser|sitio-I conser| ( 273  )
+-ExxE conser|EAL conser|DD conser|D-D nonconser|GGDEF nonconser|RxxD conser| ( 63 )
+-ExxE conser|EAL conser|DD conser|D-D conser|GGDEF nonconser|RxxD conser| ( 174 )
+-ExxE conser|EAL conser|DD conser|D-D nonconser|GGDEF conser|RxxD conser| ( 36 )
