@@ -7,7 +7,7 @@ O projeto abordou proteínas de bactérias com duas partes (domínios) <br>
 e cada uma dessas partes poderiam ou não ter atividade antagônicas  <br>
 de sintese ou degradação sobre uma molécula chamada de c--di-GMP.  <br>
 Objetivo: buscar resíduos importantes para essas proteínas, utilizando  <br>
-análises de correlação e conservação.  <br>
+análises de correlação e conservação.
 - Classificação das proteínas codificadas pelas sequências coletadas
 baseada na presença de resíduos catalíticos :  
   -diguanilato ciclases (domínio GGDEF) (ativas e inativas); <br>
