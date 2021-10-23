@@ -10,7 +10,7 @@ Objetivo: buscar resíduos importantes para essas proteínas, utilizando  <br>
 análises de correlação e conservação.  <br>
 - Classificação das proteínas codificadas pelas sequências coletadas
 baseada na presença de resíduos catalíticos :  
-  -diguanilato ciclases (domínio GGDEF) (ativas e inativas)
+  -diguanilato ciclases (domínio GGDEF) (ativas e inativas); <br>
   -fosfodiesterases de c-di-GMP (domínio EAL)
 - Coleta de sequências da web e filtragem das mesmas
 banco de dados ;
