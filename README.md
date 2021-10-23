@@ -8,12 +8,13 @@ e cada uma dessas partes poderiam ou não ter atividade antagônicas  <br>
 de sintese ou degradação sobre uma molécula chamada de c--di-GMP.  <br>
 Objetivo: buscar resíduos importantes para essas proteínas, utilizando  <br>
 análises de correlação e conservação.
+Os programas desse reposiório foram empregados para:
 - Classificação das proteínas codificadas pelas sequências coletadas
 baseada na presença de resíduos catalíticos :  
   -diguanilato ciclases (domínio GGDEF) (ativas e inativas); <br>
-  -fosfodiesterases de c-di-GMP (domínio EAL)
+  -fosfodiesterases de c-di-GMP (domínio EAL).
 - Coleta de sequências da web e filtragem das mesmas
-banco de dados ;
+banco de dados;
 - Montagem de diagramas de dados de correlação gerados pelo programa
 PFSTats.  <br>
 
