@@ -1,2 +1,4 @@
 # GitHub-Tese
-Camandos utilizados para classificação de sequencias GGDEF e EAL.
+Conjunto de códigos utilizados durante o projeto de doutorado <br>
+em Ciências Físicas e Biomoleculares da USP de São Carlos-SP.<br>
+> Classificação de sequencias GGDEF e EAL.<br>
